@@ -114,6 +114,9 @@
 #aId1 {
   text-decoration:none!important;
   color:gray!important;
+  margin-left:50px;
+  border:none;
+  width:130px;
 }
 
 
@@ -125,7 +128,6 @@
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19) !important;
   width: 600px;
   background-color: white;
-  /*text-indent: 3%;*/
   padding: 2%;
   box-sizing: border-box;
   margin:0 auto!important;
@@ -147,6 +149,10 @@
   box-sizing: border-box;
   margin:0 auto!important;
   font-weight:800;
+}
+.noV1Warn {
+  display:none;
+  border:2px solid red;
 }
 
 
